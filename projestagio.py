@@ -11,6 +11,3 @@ while cont <=n:
     t1=t2
     t2=t3
     cont+=1
-#algoritimo desenvolvido em python
-#nome=input('digite um nome que deseja ler o seu inverso: ')
-#print(nome[::-1])
